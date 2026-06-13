@@ -121,13 +121,10 @@ This project was developed as a **3-member group project**.
 
 As part of this project, my responsibilities included:
 
-* Developing the complete frontend using **React.js**
+* Developing the chatbot frontend using **React.js**
 * Designing and styling the user interface using **CSS**
 * Creating responsive layouts for desktop and mobile devices
-* Implementing Dark Mode functionality
-* Designing Login and Registration pages
 * Managing and integrating the **MySQL database**
-* Handling chat history display and user interface improvements
 
 ## 🔮 Future Improvements
 
