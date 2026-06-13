@@ -77,6 +77,44 @@ npm install
 npm start
 ```
 
+# 📸 Screenshots
+
+## Login Page
+
+![Login Page](screenshots/chatbotloginpage.png)
+
+---
+
+## Register Page
+
+![Register Page](screenshots/chatbotregisterpage.png)
+
+---
+
+## Chatbot UI (Dark Mode)
+
+![Dark Mode](screenshots/chatbotUI(darkmode).png)
+
+---
+
+## Chatbot UI (Light Mode)
+
+![Light Mode](screenshots/chatbotUI(lightmode).png)
+
+---
+
+## Mobile View
+
+![Mobile View](screenshots/chatbotmobileview.png)
+
+---
+
+## Delete All Chats Feature
+
+![Delete All Chats](screenshots/chatbot(deleteallchats).png)
+
+---
+
 ## 👥 Team Members
 
 This project was developed as a **3-member group project**.
