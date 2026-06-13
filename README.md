@@ -77,23 +77,6 @@ npm install
 npm start
 ```
 
-## 🔑 Environment Variables
-
-Create a `.env` file inside the server folder:
-
-```env
-PORT=5000
-JWT_SECRET=your_secret_key
-
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=your_password
-DB_NAME=chatbot_db
-DB_PORT=3306
-
-OPENROUTER_API_KEY=your_api_key
-```
-
 ## 👥 Team Members
 
 This project was developed as a **3-member group project**.
