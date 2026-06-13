@@ -81,32 +81,32 @@ npm start
 
 ## Login Page
 <p align="center">
-  <img src="screenshots/chatbotloginpage.png" width="300">
+  <img src="screenshots/chatbotloginpage.png" width="500">
 </p>
 
 ## Register Page
 <p align="center">
-  <img src="screenshots/chatbotregisterpage.png" width="700">
+  <img src="screenshots/chatbotregisterpage.png" width="500">
 </p>
 
 ## Chatbot UI (Dark Mode)
 <p align="center">
-  <img src="screenshots/chatbotUI(darkmode).png" width="900">
+  <img src="screenshots/chatbotUI(darkmode).png" width="500">
 </p>
 
 ## Chatbot UI (Light Mode)
 <p align="center">
-  <img src="screenshots/chatbotUI(lightmode).png" width="900">
+  <img src="screenshots/chatbotUI(lightmode).png" width="500">
 </p>
 
 ## Mobile View
 <p align="center">
-  <img src="screenshots/chatbotmobileview.png" width="300">
+  <img src="screenshots/chatbotmobileview.png" width="500">
 </p>
 
 ## Delete All Chats Feature
 <p align="center">
-  <img src="screenshots/chatbot(deleteallchats).png" width="900">
+  <img src="screenshots/chatbot(deleteallchats).png" width="500">
 </p>
 
 ## 👥 Team Members
