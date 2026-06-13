@@ -1,0 +1,154 @@
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#212121;
+}
+
+.register-container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.register-card{
+    background:#2f2f2f;
+    padding:40px;
+    border-radius:20px;
+    width:350px;
+    text-align:center;
+    box-shadow:0 0 20px rgba(0,0,0,0.4);
+}
+
+.login-card h1,
+.register-card h1{
+    color:white;
+    font-size:32px;
+    margin-bottom:10px;
+}
+
+.login-card h2,
+.register-card h2{
+    color:#19c37d;
+    margin-bottom:25px;
+}
+
+.tagline{
+    color:#aaa;
+    font-size:14px;
+    margin-bottom:25px;
+}
+
+.register-card input{
+    width:100%;
+    padding:15px;
+    margin-bottom:20px;
+    border:none;
+    outline:none;
+    border-radius:10px;
+    background:#40414f;
+    color:white;
+    font-size:16px;
+}
+
+.register-card button{
+    width:100%;
+    padding:15px;
+    border:none;
+    border-radius:10px;
+    background:#19c37d;
+    color:white;
+    font-size:16px;
+    cursor:pointer;
+}
+
+.register-card button:hover{
+    background:#13a66a;
+}
+
+.register-note{
+    margin-top:20px;
+    color:#bdbdbd;
+    font-size:14px;
+    line-height:1.5;
+}
+
+.login-link{
+    color:#19c37d;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+/* Responsive Design */
+
+@media (max-width: 768px){
+
+    .register-card{
+        width:90%;
+        padding:30px;
+    }
+
+    .register-card h1{
+        font-size:30px;
+    }
+
+    .register-card input{
+        padding:14px;
+        font-size:15px;
+    }
+
+    .register-card button{
+        padding:14px;
+        font-size:15px;
+    }
+
+    .register-note{
+        font-size:13px;
+    }
+
+    .login-link{
+        font-size:15px;
+    }
+
+}
+
+
+@media (max-width:480px){
+
+    .register-container{
+        padding:20px;
+    }
+
+    .register-card{
+        width:100%;
+        padding:25px;
+        border-radius:15px;
+    }
+
+    .register-card h1{
+        font-size:26px;
+        margin-bottom:25px;
+    }
+
+    .register-card input{
+        padding:12px;
+        font-size:14px;
+        margin-bottom:15px;
+    }
+
+    .register-card button{
+        padding:12px;
+        font-size:14px;
+    }
+
+    .register-note{
+        font-size:12px;
+    }
+
+    .login-link{
+        display:block;
+        margin-top:10px;
+        font-size:14px;
+    }
+
+}
