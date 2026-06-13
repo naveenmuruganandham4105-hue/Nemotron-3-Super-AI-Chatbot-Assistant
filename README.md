@@ -101,7 +101,7 @@ npm start
 
 ## Mobile View
 <p align="center">
-  <img src="screenshots/chatbotmobileview.png" width="500">
+  <img src="screenshots/chatbotmobileview.png" width="200">
 </p>
 
 ## Delete All Chats Feature
