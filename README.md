@@ -81,7 +81,7 @@ npm start
 
 ## Login Page
 <p align="center">
-  <img src="screenshots/chatbotloginpage.png" width="700">
+  <img src="screenshots/chatbotloginpage.png" width="300">
 </p>
 
 ## Register Page
