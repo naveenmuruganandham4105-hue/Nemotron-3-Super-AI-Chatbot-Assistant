@@ -99,8 +99,8 @@ OPENROUTER_API_KEY=your_api_key
 This project was developed as a **3-member group project**.
 
 * **Naveen M**
-* **Raagul K**
-* **Srinivasan G**
+* **XXXXXX**
+* **XXXXXX**
 
 ## 👨‍💻 My Contribution
 
